@@ -77,7 +77,7 @@ namespace ErenKinay_Odev1_WebApi.Controllers
 
         }
 
-        // When that action call, 
+        
         [HttpPost("AddBook")]
         public IActionResult AddBook([FromBody] Book book)
         {
