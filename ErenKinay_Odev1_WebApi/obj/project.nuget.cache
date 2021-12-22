@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "plIERcfrgfH8HuB5Ubc3x6NRlrp3tMt93V0FPNdwInslnW8tFEgU3wSUlOgx7mboUFNRl8pKl5CT3MdP0AT7Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\source\\repos\\ErenKinay_Odev1_WebApi\\ErenKinay_Odev1_WebApi\\ErenKinay_Odev1_WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
